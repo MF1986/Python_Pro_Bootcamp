@@ -4,6 +4,7 @@ https://www.udemy.com/course/100-days-of-code/
 The code has not been optimized or corrected, the goal is to have a code that works and achieve the result.<br />
 The code are getting naturally more and more clear and optimized over the various exercises.
 
+
 **Python Projects**
 - *Day 1: Band name generator* - Working with Variables in Python to Manage Data
 - *Day 2: Tip calculator* - Understanding Data Types and How to Manipulate Strings
