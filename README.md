@@ -5,9 +5,9 @@ The code has not been optimized or corrected, the goal is to have a code that wo
 The code are getting naturally more and more clear and optimized over the various exercises.
 
 **Python Projects**
-- Day 1: Band name generator  | Working with Variables in Python to Manage Data
-- Day 2: Tip calculator       | Understanding Data Types and How to Manipulate Strings
-- Day 3: Treasure Island      | Control Flow and Logical Operators
+- *Day 1: Band name generator* - Working with Variables in Python to Manage Data
+- *Day 2: Tip calculator* - Understanding Data Types and How to Manipulate Strings
+- *Day 3: Treasure Island* - Control Flow and Logical Operators
 
 **Python exercises:**
 - 01 Two Digits numbers addition
