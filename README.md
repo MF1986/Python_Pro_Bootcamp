@@ -5,13 +5,13 @@ The code has not been optimized or corrected, the goal is to have a code that wo
 The code are getting naturally more and more clear and optimized over the various exercises.
 
 
-**Python Projects**
+**Python Projects - Easy section day 1 to 14**
 - Day 1: **Band name generator** - Working with Variables in Python to Manage Data
 - Day 2: **Tip calculator** - Understanding Data Types and How to Manipulate Strings
 - Day 3: **Rocket Launcher (Own game)** - Control Flow and Logical Operators
 - Day 4: **Rock paper scissors (game)** - Randomisation and Python Lists
 
-**Python exercises:**
+**Python exercises - easy section day 1 to 14**
 - 01 Two Digits numbers addition
 - 02 BMI calculator (Body Mass Indicator)
 - 03 Age calculator
