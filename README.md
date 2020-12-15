@@ -22,3 +22,4 @@ The code are getting naturally more and more clear and optimized over the variou
 - 08 True love score
 - 09 Heads and tails
 - 10 Random buy
+- 11 Treasure map
